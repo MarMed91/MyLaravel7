@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "dependencies": {
+    "opencollective": "^1.0.3"
+  },
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.2",
+    "popper.js": "^1.12"
+  }
+}
